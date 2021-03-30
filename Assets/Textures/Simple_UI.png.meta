@@ -1,0 +1,795 @@
+fileFormatVersion: 2
+guid: 728cfe1563d5f1c448f27c9e6e4b3558
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1719969065782977713
+    second: SideFlag
+  - first:
+      213: -4301721594731378024
+    second: UI_WhitePanel
+  - first:
+      213: 4524754204854257708
+    second: UI_OutlinedPanel
+  - first:
+      213: 3546778910983675871
+    second: UI_SideFlag
+  - first:
+      213: 6403390260471212027
+    second: UI_WhiteRectangle
+  - first:
+      213: 4918411601292981789
+    second: UI_Star
+  - first:
+      213: 7941078811112989357
+    second: UI_Location_Player
+  - first:
+      213: -6587439145278696867
+    second: UI_Finish
+  - first:
+      213: 64753382118971285
+    second: UI_Warning
+  - first:
+      213: -214422779532243257
+    second: UI_Coin
+  - first:
+      213: 1583785223124712645
+    second: UI_Retry
+  - first:
+      213: -4938867438583005936
+    second: UI_Shop
+  - first:
+      213: 2630956308497014589
+    second: UI_OrangePanel
+  - first:
+      213: -5002574183698695347
+    second: UI_BannerHeader
+  - first:
+      213: -1450590449815465316
+    second: UI_Button
+  - first:
+      213: -4769332663358322970
+    second: UI_Lock
+  - first:
+      213: 5600881996127139183
+    second: WormRace_UI_15
+  - first:
+      213: 2753454781843871491
+    second: WormRace_UI_16
+  - first:
+      213: 8761472281700704536
+    second: WormRace_UI_17
+  - first:
+      213: 5174917901783738433
+    second: UI_RemoveAds
+  - first:
+      213: 7170082398485325614
+    second: UI_Video
+  - first:
+      213: 3558018751640912227
+    second: UI_WhiteButton
+  - first:
+      213: 3992908683400377958
+    second: WormRace_UI_21
+  - first:
+      213: 3358379219524423374
+    second: UI_LevelUp
+  - first:
+      213: -7556001923284460109
+    second: UI_Settings
+  - first:
+      213: 4398302666099478864
+    second: UI_Next
+  - first:
+      213: -1719969065782977713
+    second: UI_Location_Enemy1
+  - first:
+      213: -5340883090627816717
+    second: UI_Location_Enemy2
+  - first:
+      213: -8349316119177850775
+    second: UI_Button_Gray
+  - first:
+      213: 4748003688153436627
+    second: UI_Vibration
+  - first:
+      213: -2082189602349770000
+    second: UI_Vibration_off
+  - first:
+      213: -560173651419747861
+    second: White_quater
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_SideFlag
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 97
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 55, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf570eb0a0b83130800000000000000
+      internalID: 3546778910983675871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_WhitePanel
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 165
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 14, z: 16, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ac86740073d44c0800000000000000
+      internalID: -4301721594731378024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_OutlinedPanel
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 150
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 14, y: 14, z: 14, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c280b44e9f72bce30800000000000000
+      internalID: 4524754204854257708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_WhiteRectangle
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 149
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf72599e3896dd850800000000000000
+      internalID: 6403390260471212027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Star
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 143
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d167a32ea45b14440800000000000000
+      internalID: 4918411601292981789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Location_Player
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 138
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da265c5ea11643e60800000000000000
+      internalID: 7941078811112989357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Finish
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 137
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d521926cff6b494a0800000000000000
+      internalID: -6587439145278696867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Warning
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 144
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597d433abdc06e000800000000000000
+      internalID: 64753382118971285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Coin
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 135
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce8a3a3e97360df0800000000000000
+      internalID: -214422779532243257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Retry
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 138
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc7cd8e44cbaf510800000000000000
+      internalID: 1583785223124712645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Shop
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 134
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d348a5b3e957bb0800000000000000
+      internalID: -4938867438583005936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_OrangePanel
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 138
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 9, z: 12, w: 9}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f998bb2d8038420800000000000000
+      internalID: 2630956308497014589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_BannerHeader
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 9
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 63, y: 0, z: 63, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b7912e849439ab0800000000000000
+      internalID: -5002574183698695347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Button
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 57
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 42, z: 35, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92dc24eba77edbe0800000000000000
+      internalID: -1450590449815465316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Lock
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 72
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e60cd0363defcdb0800000000000000
+      internalID: -4769332663358322970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_RemoveAds
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 56
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14821ade96001d740800000000000000
+      internalID: 5174917901783738433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Video
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 66
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27aff3e3ff318360800000000000000
+      internalID: 7170082398485325614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_WhiteButton
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 9
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 14, z: 19, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3614cb3143f906130800000000000000
+      internalID: 3558018751640912227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_LevelUp
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 17
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece8ec05b1c5b9e20800000000000000
+      internalID: 3358379219524423374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Settings
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 8
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd1670c840b32790800000000000000
+      internalID: -7556001923284460109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Next
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 6
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051538bb8f8e90d30800000000000000
+      internalID: 4398302666099478864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Location_Enemy1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 67
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b58595f317128e0800000000000000
+      internalID: -1719969065782977713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Location_Enemy2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f21d34502f51e5b0800000000000000
+      internalID: -5340883090627816717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Button_Gray
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 57
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 42, z: 34, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96016f6e935412c80800000000000000
+      internalID: -8349316119177850775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Vibration
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 11
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d151a8c23c44e140800000000000000
+      internalID: 4748003688153436627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Vibration_off
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 8
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa1eeca6939a13e0800000000000000
+      internalID: -2082189602349770000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_quater
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 23
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 18, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9a79e280dd938f0800000000000000
+      internalID: -560173651419747861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d23f96bb44a012940974f4a4ef770012
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
